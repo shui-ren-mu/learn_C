@@ -7,5 +7,15 @@
 #include<map>           //提供了各种数据结构。(5-7)
 using namespace std;
 int main(){
-	    //代码 
+    //代码 
+    return 0;//记住就行
 }
+/*
+模板样例：
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    //代码 
+    return 0;
+}
+*/
